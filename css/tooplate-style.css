@@ -248,7 +248,7 @@ p {
     border: none;
     background-color: #353541;
     color: white;
-    padding: .75rem;
+    padding: .75rem; 
 }
 
 .form-control:focus {
